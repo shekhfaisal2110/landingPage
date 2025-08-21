@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { FaInstagram, FaGlobe, FaGithub, FaLinkedin, FaEnvelope, FaCode, FaHeart } from "react-icons/fa";
+import { FaInstagram, FaGlobe, FaGithub, FaLinkedin, FaEnvelope, FaCode, FaHeart, FaCalculator } from "react-icons/fa";
 import ProfileImg from "../../public/my_image.jpeg";
 
 const Portfolio = () => {
@@ -45,7 +45,7 @@ const Portfolio = () => {
     { icon: FaLinkedin, href: "https://www.linkedin.com/in/mohammad-faisal-shekh", label: "LinkedIn", color: "blue", bgGradient: "from-blue-600 to-indigo-600" },
     { icon: FaGithub, href: "https://github.com/shekhfaisal2110", label: "GitHub", color: "slate", bgGradient: "from-slate-600 to-gray-600" },
     { icon: FaGlobe, href: "https://shekhfaisal2110.github.io/tasbeeh/", label: "Tasbeeh App", color: "emerald", bgGradient: "from-emerald-600 to-teal-600" },
-    { icon: FaCode, href: "https://to-do-list-react-faisal.netlify.app", label: "Todo App", color: "amber", bgGradient: "from-amber-600 to-orange-600" },
+    { icon: FaCalculator, href: "https://shekhfaisal2110.github.io/MathAI/", label: "MathAI", color: "amber", bgGradient: "from-amber-600 to-orange-600" },
     { icon: FaInstagram, href: "https://www.instagram.com/_shaikh__sahab_19_8", label: "Instagram", color: "pink", bgGradient: "from-pink-600 to-rose-600" }
   ];
 

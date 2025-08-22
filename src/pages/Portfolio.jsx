@@ -41,7 +41,7 @@ const Portfolio = () => {
   }, [isMobile]);
 
   const socialLinks = [
-    { icon: FaGlobe, href: "https://portfolio-virid-three-aehlim8f0f.vercel.app/", label: "Portfolio", color: "emerald", bgGradient: "from-emerald-600 to-teal-600" },
+    { icon: FaGlobe, href: "https://portfolio-psi-teal-45.vercel.app/", label: "Portfolio", color: "emerald", bgGradient: "from-emerald-600 to-teal-600" },
     { icon: FaLinkedin, href: "https://www.linkedin.com/in/mohammad-faisal-shekh", label: "LinkedIn", color: "blue", bgGradient: "from-blue-600 to-indigo-600" },
     { icon: FaGithub, href: "https://github.com/shekhfaisal2110", label: "GitHub", color: "slate", bgGradient: "from-slate-600 to-gray-600" },
     { icon: FaGlobe, href: "https://shekhfaisal2110.github.io/tasbeeh/", label: "Tasbeeh App", color: "emerald", bgGradient: "from-emerald-600 to-teal-600" },
